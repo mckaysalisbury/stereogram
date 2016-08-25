@@ -1,0 +1,6 @@
+C:\src\old\Inspiron 8200\DemoScene NewP\PilgrimageAscii\bin\Debug\PilgrimageAscii.exe
+C:\src\old\Inspiron 8200\DemoScene NewP\PilgrimageAscii\bin\Debug\PilgrimageAscii.pdb
+C:\src\old\Inspiron 8200\DemoScene NewP\PilgrimageAscii\bin\Debug\MagicGenerators.dll
+C:\src\old\Inspiron 8200\DemoScene NewP\PilgrimageAscii\bin\Debug\MagicGenerators.pdb
+C:\src\old\Inspiron 8200\DemoScene NewP\PilgrimageAscii\obj\Debug\PilgrimageAscii.exe
+C:\src\old\Inspiron 8200\DemoScene NewP\PilgrimageAscii\obj\Debug\PilgrimageAscii.pdb

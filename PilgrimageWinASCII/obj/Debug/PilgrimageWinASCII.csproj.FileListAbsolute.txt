@@ -1,0 +1,8 @@
+C:\src\old\Inspiron 8200\DemoScene NewP\PilgrimageWinASCII\bin\Debug\PilgrimageWinASCII.exe
+C:\src\old\Inspiron 8200\DemoScene NewP\PilgrimageWinASCII\bin\Debug\PilgrimageWinASCII.pdb
+C:\src\old\Inspiron 8200\DemoScene NewP\PilgrimageWinASCII\bin\Debug\MagicGenerators.dll
+C:\src\old\Inspiron 8200\DemoScene NewP\PilgrimageWinASCII\bin\Debug\MagicGenerators.pdb
+C:\src\old\Inspiron 8200\DemoScene NewP\PilgrimageWinASCII\obj\Debug\PilgrimageWinASCII.Form1.resources
+C:\src\old\Inspiron 8200\DemoScene NewP\PilgrimageWinASCII\obj\Debug\PilgrimageWinASCII.csproj.GenerateResource.Cache
+C:\src\old\Inspiron 8200\DemoScene NewP\PilgrimageWinASCII\obj\Debug\PilgrimageWinASCII.exe
+C:\src\old\Inspiron 8200\DemoScene NewP\PilgrimageWinASCII\obj\Debug\PilgrimageWinASCII.pdb

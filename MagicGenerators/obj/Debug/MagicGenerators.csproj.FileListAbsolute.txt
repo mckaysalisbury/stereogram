@@ -1,0 +1,5 @@
+C:\src\old\Inspiron 8200\DemoScene NewP\MagicGenerators\bin\Debug\MagicGenerators.dll
+C:\src\old\Inspiron 8200\DemoScene NewP\MagicGenerators\bin\Debug\MagicGenerators.pdb
+C:\src\old\Inspiron 8200\DemoScene NewP\MagicGenerators\obj\Debug\MagicGenerators.csprojResolveAssemblyReference.cache
+C:\src\old\Inspiron 8200\DemoScene NewP\MagicGenerators\obj\Debug\MagicGenerators.dll
+C:\src\old\Inspiron 8200\DemoScene NewP\MagicGenerators\obj\Debug\MagicGenerators.pdb

@@ -1,0 +1,9 @@
+C:\src\old\Inspiron 8200\DemoScene NewP\PilgrimageWinImage\obj\Debug\PilgrimageWinImage.exe
+C:\src\old\Inspiron 8200\DemoScene NewP\PilgrimageWinImage\obj\Debug\PilgrimageWinImage.pdb
+C:\src\old\Inspiron 8200\DemoScene NewP\PilgrimageWinImage\bin\Debug\PilgrimageWinImage.exe
+C:\src\old\Inspiron 8200\DemoScene NewP\PilgrimageWinImage\bin\Debug\PilgrimageWinImage.pdb
+C:\src\old\Inspiron 8200\DemoScene NewP\PilgrimageWinImage\bin\Debug\MagicGenerators.dll
+C:\src\old\Inspiron 8200\DemoScene NewP\PilgrimageWinImage\bin\Debug\MagicGenerators.pdb
+C:\src\old\Inspiron 8200\DemoScene NewP\PilgrimageWinImage\obj\Debug\PilgrimageWinImage.csprojResolveAssemblyReference.cache
+C:\src\old\Inspiron 8200\DemoScene NewP\PilgrimageWinImage\obj\Debug\PilgrimageWinImage.Form1.resources
+C:\src\old\Inspiron 8200\DemoScene NewP\PilgrimageWinImage\obj\Debug\PilgrimageWinImage.csproj.GenerateResource.Cache
